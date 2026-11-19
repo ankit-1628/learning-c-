@@ -13,7 +13,7 @@ int main(){
         cout<<"Right angle triangle";
     }
     else{
-        cout<<"Scalene triangle";
+        cout<<" it is a Scalene triangle";
     }
     return 0;
 }
